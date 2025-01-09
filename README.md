@@ -1,4 +1,5 @@
-#Spring Boot REST API Blog
+### Spring Boot REST API Blog
+
 A REST API blog application built using Spring Boot that provides a foundation for managing blog posts, users, and comments. This project demonstrates essential concepts such as:
 
 CRUD operations for blog posts
