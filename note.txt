@@ -1,1 +1,8 @@
 ./mvnw spring-javaformat:apply
+
+ git commit -m "spring boot rest api "
+
+ git add .
+
+ git push -u origin main
+
